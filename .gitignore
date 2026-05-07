@@ -1,0 +1,65 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Visual Studio files
+.vs/
+*.slnx
+*.vcxproj
+*.vcxproj.filters
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.dbmdl
+*.pdb
+*.idb
+*.ilk
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+
+# Build directories
+x64/
+x86/
+Debug/
+Release/
+*.tlog/
+*.lastbuildstate
+
+# Appveyor
+appveyor.yml
+config.bat
+node_modules
